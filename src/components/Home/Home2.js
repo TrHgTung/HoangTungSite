@@ -20,17 +20,17 @@ function Home2() {
               <span className="purple"> CÔNG NGHỆ </span> MÀ TUI HAY DÙNG NÈ
             </h1>
             <p className="home-about-body">
-              Tui thích việc lập trình phía máy chủ web, mà người ta hay nói là back-end đó
+              Tui thích việc lập trình phía máy chủ web, mà người ta hay nói là <b className="purple" >đi code web back-end</b> đó
               <br />
               <br />Tui đã 'ăn nằm' với
               <i>
-                <b className="purple"> Laravel (PHP), .NET Core (C#) </b>và <b className="purple">ReactJS (JS) </b> nè
+                <b className="purple"> Laravel (PHP)</b>,<b className="purple">  .NET Core (C#) </b> ,<b className="purple">  ReactJS (JS) </b>và cả <b className="purple"> MySQL </b> luôn đó
               </i>
               <br />
               <br />
               Với mấy đứa mà tui đã chơi, thì
               <i>
-                <b className="purple"> Laravel</b></i> &nbsp;là chân ái của tui
+                <b className="purple"> Laravel</b></i> &nbsp;là chân ái của tui. Ngoài ra tui cũng có thể chơi với <b className="purple"><i>ASP.NET Core</i></b>
               {/* <b className="purple">
                   Blockchain.
                 </b> */}
@@ -60,10 +60,10 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Bạn muốn biết thêm về tui?</h1>
             <p>
-              <span className="purple">Truy cập các MXH phía dưới </span>hoặc tiếp tục ở lại trang để dõi theo về <i><Link as={Link} to="/about">Giới thiệu</Link>, <Link as={Link} to="/project" >Dự án cá nhân</Link> hay <Link as={Link} to="/resume" >CV cá nhân</Link></i> của tui nhé!
+              <span className="purple">Tương tác với tui qua các nền tảng MXH phía dưới </span>hoặc tiếp tục ở lại trang này để dõi theo về <i><Link as={Link} to="/about">Giới thiệu</Link>, <Link as={Link} to="/project" >Dự án cá nhân</Link>, <Link as={Link} to="/achivement" >Các thành tích</Link> hay <Link as={Link} to="/resume" >CV cá nhân</Link></i> của tui nhé!
             </p>
             <p>
-              Mãi iu 😘
+              Mãi iu nà 😘
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

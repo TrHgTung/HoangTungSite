@@ -34,7 +34,7 @@ function About() {
             className="about-img"
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
-            <Link as={Link} to="/project">Xem qua các dự án cá nhân của tôi</Link>
+            <p>Đây là tui</p>
           </Col>
         </Row>
         <h1 className="project-heading">
