@@ -52,7 +52,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             {/* <Tilt> */}
-            <img src={myImg} className="img-fluid" alt="avatar" title="Nhìn ka0 gi0^'ng đang đùa h0k" />
+            <img src={myImg} className="img-fluid" alt="avatar" title="Tặng fen cái bông nè" />
             <p style={{ color: 'white' }} className="mt-4"> Đây là tui nè</p>
             {/* </Tilt> */}
           </Col>
