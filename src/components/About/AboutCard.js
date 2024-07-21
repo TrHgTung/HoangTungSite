@@ -8,33 +8,39 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Xin chào các bạn đến từ Việt Nam và từ những đất nước <span className="purple">xinh đẹp </span>khác.
+            Tôi là <span className="purple"> Hoàng Tùng.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            👨‍🎓 Tôi vừa hoàn thành 4 năm Đại học của mình
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            với mức CGPA sương sương 3.21 / 4.0 🫣
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Và bây giờ tôi vẫn đang tìm cho mình một công việc
+            <br />
+            Vì thế nếu bạn là nhà tuyển dụng, đang tìm kiếm một ứng viên biết về
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Laravel (PHP)
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight />  .NET Core (C#)
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Code API / back-end web
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p style={{ textAlign: "justify" }}>
+            <br />
+            Thì xin hãy 'ghim' tôi 🥺
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+
+          <br />
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "No pain, no gain!"{" "}
+          </p>
+          <footer className="">💪</footer>
         </blockquote>
       </Card.Body>
     </Card>
