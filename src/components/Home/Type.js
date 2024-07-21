@@ -18,7 +18,7 @@ function Type() {
           `Đã có ${y} năm code Laravel 😎`,
           `Đã có ${y} năm code .NET Core 🫣`,
           "Có 'mối quan hệ' với MySQL",
-          "Đã từng cãi lộn với Designer",
+          "Đã từng cãi lộn với Designer 🐧🐧🐧",
           "Hay bị Tester 'dí'",
         ],
         autoStart: true,

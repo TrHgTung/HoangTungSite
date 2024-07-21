@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-timeline-element{
+  width: 600px; /* Điều chỉnh chiều rộng */
+  height: 275px; /* Điều chỉnh chiều cao */
+  padding: auto;
+}

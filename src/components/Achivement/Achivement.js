@@ -29,6 +29,7 @@ function Achivement() {
             className="about-img"
           >
             <img src={Clefable} alt="about" className="img-fluid" />
+            <p className="mt-5">Hãy cùng với Clefable dọc theo cây ký ức nhé ❤️</p>
           </Col>
         </Row>
 
